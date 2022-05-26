@@ -1,3 +1,5 @@
+import React from "react";
+
 const trees = "Aspen and Pine";
 
 function wildlife() {
